@@ -1,0 +1,10 @@
+body {
+  box-shadow: 4px 4px 0 0 var(--blue), 8px 8px 0 0 var(--blue),
+    12px 12px 0 0 var(--blue), 16px 16px 0 0 var(--blue),
+    20px 20px 0 0 var(--blue), 24px 24px 0 0 var(--blue),
+    28px 28px 0 0 var(--blue), 32px 32px 0 0 var(--blue),
+    36px 36px 0 0 var(--blue), 40px 40px 0 0 var(--blue),
+    44px 44px 0 0 var(--blue), 48px 48px 0 0 var(--blue),
+    52px 52px 0 0 var(--blue), 56px 56px 0 0 var(--blue),
+    60px 60px 0 0 var(--blue);
+}

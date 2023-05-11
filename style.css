@@ -57,6 +57,7 @@ a {
   gap: 20px;
   align-items: center;
   border-radius: 0px;
+  box-shadow: 4px 4px 0 0 white, 6px 6px 0 0 var(--blue);
   transition-duration: 200ms;
   font-family: "quasimoda", sans-serif;
   font-weight: 700;
@@ -64,8 +65,9 @@ a {
 }
 
 a:hover {
-  background: var(--blue);
-  color: var(--red);
+  background-color: var(--blue);
+  color: white;
+  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 var(--blue);
 }
 
 a i {
